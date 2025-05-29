@@ -1,6 +1,6 @@
 name = "TelegramBotAPI"
 uuid = "your-uuid-here"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Timeness <your.email@example.com>"]
 version = "0.4.0"
 
 [deps]
